@@ -51,4 +51,34 @@ The course is broken down into two major parts, taking you from understanding th
 5.  **Begin Your Journey:** Start with the first notebook in `01-AI_Fundamentals`. Each module contains labs and detailed notes.
 
 
-Happy learning!
+## Source Attribution
+
+> **IMPORTANT:**  
+> **All content in this repository is adapted from the Machine Learning Specialization by Andrew Ng on Coursera and DeepLearning.AI.**
+>
+> This includes all notebooks, code, exercises, and explanatory text. The original course is authored by Andrew Ng and collaborators at Stanford University and DeepLearning.AI.
+
+## Original Course Reference
+
+- **Course:** [Machine Learning Specialization by Andrew Ng (Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)
+- **Authors:** Andrew Ng, Stanford University, DeepLearning.AI
+
+## License and Academic Use
+
+This repository is intended for personal study and educational use only.  
+If you use or redistribute any materials from this repo, **you must cite the original course and authors**.  
+Do NOT submit work from this repository as your own for academic credit.
+
+## Language Composition
+
+- **Jupyter Notebook:** 100%
+
+## Acknowledgements
+
+- All intellectual property and original instructional design belongs to Andrew Ng, Stanford University, and DeepLearning.AI.
+- Please refer to the [Coursera Terms of Use](https://www.coursera.org/about/terms) and [DeepLearning.AI Terms](https://www.deeplearning.ai/terms/) for further details regarding usage and redistribution.
+
+---
+
+*This repository is a personal educational archive and is not affiliated with or endorsed by Andrew Ng, Stanford University, DeepLearning.AI, or Coursera.*
+
