@@ -28,8 +28,8 @@ The course is broken down into two major parts, taking you from understanding th
 
 1.  **Clone the Repository:** Get your own copy of the course materials.
     ```bash
-    git clone <your-repository-url>
-    cd <repository-name>
+    git clone https://github.com/kabeerniazi/Ai_fundamentals
+    cd Ai_fundamentals
     ```
 
 2.  **Create a Virtual Environment:** This creates a clean, isolated workspace for this course. It's like having a dedicated lab for your experiments.
@@ -49,5 +49,6 @@ The course is broken down into two major parts, taking you from understanding th
     ```
 
 5.  **Begin Your Journey:** Start with the first notebook in `01-AI_Fundamentals`. Each module contains labs and detailed notes.
+
 
 Happy learning!
